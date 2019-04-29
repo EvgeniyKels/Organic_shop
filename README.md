@@ -1,4 +1,4 @@
-#Organic shop - Angular + firebase
+# Organic shop - Angular + firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
 
